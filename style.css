@@ -76,7 +76,7 @@ img.sample {
 
 
 .tiview {
-    margin: 100px auto 20px auto;
+    margin: 0px auto 20px auto;
     width: fit-content;
 }
 
@@ -121,8 +121,8 @@ pre {
 }
 
 img#preview {
-    max-width: 120px;
-    max-height: 120px;
+    max-width: 100px;
+    max-height: 100px;
     height: auto;
 }
 
