@@ -171,17 +171,6 @@ input[type=text]#sharetext {
     transition: width 0.25s ease-out;
 }
 
-span#check {
-    visibility: hidden;
-    display: inline-block;
-    position: relative;
-    left: -16px;
-    top: 1px;
-    color: rgb(101,149,93);
-    font-size: 13px;
-    width: 0px;
-}
-
 #viewsource {
     display: none;
 }
