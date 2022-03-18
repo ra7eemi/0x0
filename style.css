@@ -200,12 +200,6 @@ span#check {
     width: 0px;
 }
 
-button#htmlbutton {
-    display: none;
-    float: right;
-    margin-left: 3px;
-}
-
 #viewsource {
     display: none;
 }
@@ -217,7 +211,7 @@ button#htmlbutton {
 }
 
 html, body {
-    height: 100%;
+    height: fit-content;
 }
 
 @media screen and (min-width: 800px) {
